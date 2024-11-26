@@ -1,6 +1,6 @@
 # Product Listing Application
 
-This project is a simple product listing application built with [Remix](https://remix.run/) and [Material UI](https://mui.com/). It provides users with a horizontal scrolling list and a paginated vertical list of products, with the ability to view detailed information about each product. The app is designed to fetch data from APIs dynamically.
+This project is a simple product listing application built with [Remix](https://remix.run/) and [Material UI](https://mui.com/). It provides users with a horizontal scrolling list and a paginated vertical list of products, with the ability to view detailed information about each product. The app is designed to fetch data from APIs dynamically. You can see the live version of the [Product List](https://product-list-phi-eight.vercel.app/) deployed to the [Vercel](https://vercel.com/).
 
 ## Features
 
@@ -60,10 +60,13 @@ The application fetches data from the following mock API endpoints:
 4. The **VerticalList** component pre-fetches paginated URLs and dynamically fetches product lists as the user navigates.
 
 ## Preview of the project
+
 ### Home Page
+
 ![image](https://github.com/user-attachments/assets/0b81d7ab-9c0d-4a9b-83c2-7205014553f4)
 
 ### Product Detail Page
+
 ![image](https://github.com/user-attachments/assets/f3e73b70-49f5-4fc5-8758-b282be8a568a)
 
 ## Contributing
